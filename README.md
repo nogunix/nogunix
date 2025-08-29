@@ -17,6 +17,6 @@ This is my personal profile. Activities here are conducted in my personal capaci
 
 ## GitHub Stats
 
-![nogunix's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogunix&show_icons=true&theme=radical)
+![nogunix's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogunix&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nogunix&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nogunix&layout=compact&theme=tokyonight)
