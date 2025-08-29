@@ -31,6 +31,7 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	6.1.0	//
+Disclaimer	README.md	/^## Disclaimer  $/;"	language:Markdown
 GitHub Stats	README.md	/^## GitHub Stats$/;"	language:Markdown
 Hi, I'm Nogunix	README.md	/^# Hi, I'm Nogunix$/;"	language:Markdown
 Philosophy	README.md	/^## Philosophy$/;"	language:Markdown
