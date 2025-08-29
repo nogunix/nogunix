@@ -17,7 +17,7 @@ The name **Nogunix** reflects my appreciation for the Unix philosophy:
 I try to apply this principle in my projects—keeping them simple, modular, and composable.
 
 
-Disclaimer  
+## Disclaimer  
 This is my personal profile. Activities here are conducted in my personal capacity and are not affiliated with my employer.
 
 
