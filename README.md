@@ -1,6 +1,6 @@
 # Hi, I'm Nogunix
 
-- Linux / HPC / OSS Packaging
+- Linux / Kernel / OSS Packaging
 - Fedora Copr maintainer ([My Copr repos](https://copr.fedorainfracloud.org/coprs/nogunix/))
 - Author of:
   - [usb-wakeup-blocker](https://github.com/nogunix/usb-wakeup-blocker)
