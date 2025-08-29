@@ -10,6 +10,15 @@
 
 ---
 
+## Philosophy
+
+The name **Nogunix** reflects my appreciation for the Unix philosophy:  
+*"Write programs that do one thing and do it well. Write programs to work together. Handle text streams, because that is a universal interface."*  
+
+I try to apply this principle in my projects—keeping them simple, modular, and composable.
+
+---
+
 Disclaimer  
 This is my personal profile. Activities here are conducted in my personal capacity and are not affiliated with my employer.
 
@@ -20,3 +29,4 @@ This is my personal profile. Activities here are conducted in my personal capaci
 ![nogunix's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogunix&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nogunix&layout=compact&theme=tokyonight)
+
