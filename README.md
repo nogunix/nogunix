@@ -8,7 +8,6 @@
   - [kernel-build-scripts](https://github.com/nogunix/kernel-build-scripts)
   - [dotfiles](https://github.com/nogunix/dotfiles)
 
----
 
 ## Philosophy
 
@@ -17,12 +16,10 @@ The name **Nogunix** reflects my appreciation for the Unix philosophy:
 
 I try to apply this principle in my projects—keeping them simple, modular, and composable.
 
----
 
 Disclaimer  
 This is my personal profile. Activities here are conducted in my personal capacity and are not affiliated with my employer.
 
----
 
 ## GitHub Stats
 
