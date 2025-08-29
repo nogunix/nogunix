@@ -12,3 +12,11 @@
 
 ⚠️ Disclaimer  
 This is my personal profile. Activities here are conducted in my personal capacity and are not affiliated with my employer.
+
+---
+
+## GitHub Stats
+
+![nogunix's GitHub stats](https://github-readme-stats.vercel.app/api?username=nogunix&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nogunix&layout=compact&theme=radical)
