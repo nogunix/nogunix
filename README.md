@@ -5,7 +5,6 @@
 - Author of:
   - [usb-wakeup-blocker](https://github.com/nogunix/usb-wakeup-blocker)
   - [linux-japanese-font-fix](https://github.com/nogunix/linux-japanese-font-fix)
-  - [kernel-build-scripts](https://github.com/nogunix/kernel-build-scripts)
   - [dotfiles](https://github.com/nogunix/dotfiles)
 
 
