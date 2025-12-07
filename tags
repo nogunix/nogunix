@@ -23,14 +23,14 @@
 !_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
 !_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
-!_TAG_OUTPUT_VERSION	0.0	/current.age/
+!_TAG_OUTPUT_VERSION	1.1	/current.age/
 !_TAG_PARSER_VERSION!Markdown	1.1	/current.age/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
 !_TAG_PROC_CWD	/home/mnoguchi/nogunix/	//
 !_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
-!_TAG_PROGRAM_VERSION	6.1.0	//
+!_TAG_PROGRAM_VERSION	6.2.1	//
 Disclaimer	README.md	/^## Disclaimer  $/;"	language:Markdown
 GitHub Stats	README.md	/^## GitHub Stats$/;"	language:Markdown
 Hi, I'm Nogunix	README.md	/^# Hi, I'm Nogunix$/;"	language:Markdown
