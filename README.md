@@ -1,7 +1,7 @@
 # Hi, I'm Nogunix
 
-- Linux / Kernel / OSS Packaging
-- Fedora Copr maintainer ([My Copr repos](https://copr.fedorainfracloud.org/coprs/nogunix/))
+- Linux / kernel-adjacent work / OSS packaging
+- Fedora Copr maintainer, responsible for user-facing packages ([My Copr repos](https://copr.fedorainfracloud.org/coprs/nogunix/))
 - Author of:
   - [usb-wakeup-blocker](https://github.com/nogunix/usb-wakeup-blocker)
   - [linux-japanese-font-fix](https://github.com/nogunix/linux-japanese-font-fix)
