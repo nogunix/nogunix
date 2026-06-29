@@ -6,6 +6,7 @@
   - [usb-wakeup-blocker](https://github.com/nogunix/usb-wakeup-blocker)
   - [linux-japanese-font-fix](https://github.com/nogunix/linux-japanese-font-fix)
   - [dotfiles](https://github.com/nogunix/dotfiles)
+  - [sno-auto-builder](https://github.com/nogunix/sno-auto-builder)
 
 
 ## Philosophy
