@@ -7,6 +7,7 @@
   - [linux-japanese-font-fix](https://github.com/nogunix/linux-japanese-font-fix)
   - [dotfiles](https://github.com/nogunix/dotfiles)
   - [sno-auto-builder](https://github.com/nogunix/sno-auto-builder)
+  - [janus](https://github.com/nogunix/janus) — Claude Code plugin: an OpenShift/RHEL/CNV research & investigation pipeline
 
 
 ## Philosophy
@@ -18,4 +19,4 @@ I try to apply this principle in my projects—keeping them simple, modular, and
 
 
 ## Disclaimer  
-This is my personal profile. Activities here are conducted in my personal capacity and are not affiliated with my employer.
+This is my personal profile. All projects listed here are created and maintained in my personal capacity, and have no relation to my employer's business or confidential information.
