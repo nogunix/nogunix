@@ -1,5 +1,12 @@
 # Hi, I'm Nogunix
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-C9190B?logo=redhatopenshift&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?logo=ansible&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=black)
+
 I work across the whole Linux stack — from the kernel up to the platforms built on it.
 
 - **Kernel** — kernel internals, crash dump analysis (kdump / vmcore), device and power management
@@ -19,6 +26,19 @@ The name **Nogunix** reflects my appreciation for the Unix philosophy:
 *"Write programs that do one thing and do it well. Write programs to work together. Handle text streams, because that is a universal interface."*  
 
 I try to apply this principle in my projects—keeping them simple, modular, and composable.
+
+
+## GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nogunix&theme=github_dark">
+  <img alt="Nogunix's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nogunix&theme=default">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nogunix&theme=github_dark">
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nogunix&theme=default">
+</picture>
 
 
 ## Disclaimer  
