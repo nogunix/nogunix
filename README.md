@@ -28,18 +28,5 @@ The name **Nogunix** reflects my appreciation for the Unix philosophy:
 I try to apply this principle in my projects—keeping them simple, modular, and composable.
 
 
-## GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nogunix&theme=github_dark">
-  <img alt="Nogunix's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nogunix&theme=default">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nogunix&theme=github_dark">
-  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nogunix&theme=default">
-</picture>
-
-
 ## Disclaimer  
 This is my personal profile. All projects listed here are created and maintained in my personal capacity, and have no relation to my employer's business or confidential information.
