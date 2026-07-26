@@ -1,13 +1,16 @@
 # Hi, I'm Nogunix
 
-- Linux / kernel / OSS packaging
-- Fedora Copr maintainer, responsible for user-facing packages ([My Copr repos](https://copr.fedorainfracloud.org/coprs/nogunix/))
-- Author of:
-  - [usb-wakeup-blocker](https://github.com/nogunix/usb-wakeup-blocker)
-  - [linux-japanese-font-fix](https://github.com/nogunix/linux-japanese-font-fix)
-  - [dotfiles](https://github.com/nogunix/dotfiles)
-  - [sno-auto-builder](https://github.com/nogunix/sno-auto-builder)
+I work across the whole Linux stack — from the kernel up to the platforms built on it.
+
+- **Kernel** — kernel internals, crash dump analysis (kdump / vmcore), device and power management
+- **RHEL / Fedora** — distribution-level troubleshooting and OSS packaging; Fedora Copr maintainer, responsible for user-facing packages ([My Copr repos](https://copr.fedorainfracloud.org/coprs/nogunix/))
+- **OpenShift** — cluster deployment and automation, OpenShift Virtualization (CNV), upgrade and compatibility analysis
+- **Projects** — what I build and maintain in my personal capacity:
+  - [usb-wakeup-blocker](https://github.com/nogunix/usb-wakeup-blocker) — a script and systemd service to precisely control which devices can wake a Linux system from sleep
+  - [linux-japanese-font-fix](https://github.com/nogunix/linux-japanese-font-fix) — a Fontconfig setting that fixes common Japanese font rendering issues (the "Chinese font problem") on non-Japanese locales
+  - [sno-auto-builder](https://github.com/nogunix/sno-auto-builder) — automated OpenShift Single Node (SNO) deployment on Fedora / CentOS Stream / Ubuntu + libvirt using Ansible and OpenTofu
   - [janus](https://github.com/nogunix/janus) — Claude Code plugin: an OpenShift/RHEL/CNV research & investigation pipeline
+  - [fedora-vm-builder](https://github.com/nogunix/fedora-vm-builder) — Ansible + OpenTofu builder for disposable Fedora VMs with kdump and kernel debuginfo pre-configured
 
 
 ## Philosophy
