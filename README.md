@@ -5,7 +5,7 @@ Linux engineer working across the whole stack — from the kernel up to the plat
 ## What I work on
 
 - **Kernel** — kernel internals, crash dump analysis (kdump / vmcore), device and power management
-- **RHEL / Fedora** — distribution-level troubleshooting and OSS packaging; Fedora Copr maintainer, responsible for user-facing packages ([My Copr repos](https://copr.fedorainfracloud.org/coprs/nogunix/))
+- **RHEL / Fedora** — distribution-level troubleshooting and OSS packaging; I maintain personal Copr builds of user-facing packages ([My Copr repos](https://copr.fedorainfracloud.org/coprs/nogunix/))
 - **OpenShift** — cluster deployment and automation, OpenShift Virtualization (CNV), upgrade and compatibility analysis
 
 ## Projects
@@ -30,4 +30,4 @@ I try to apply this principle in my projects — keeping them simple, modular, a
 
 ## Disclaimer
 
-This is my personal profile. All projects listed here are created and maintained in my personal capacity, and have no relation to my employer's business or confidential information.
+Everything here is personal. These projects are developed and maintained on my own time, are not affiliated with, endorsed by, or supported by my employer, and contain no confidential or customer information. Opinions are my own.
