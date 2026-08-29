@@ -44,8 +44,8 @@ I try to apply this principle in my projects — keeping them simple, modular, a
   <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nogunix&theme=default">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nogunix&theme=github_dark">
-  <img alt="Commits by time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nogunix&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nogunix&theme=github_dark&utcOffset=9">
+  <img alt="Commits by time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nogunix&theme=default&utcOffset=9">
 </picture>
 
 <picture>
