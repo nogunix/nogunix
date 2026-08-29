@@ -28,6 +28,37 @@ What I build and maintain in my personal capacity:
 
 I try to apply this principle in my projects — keeping them simple, modular, and composable.
 
+## GitHub
+
+<details>
+<summary>Stats for nerds</summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nogunix&theme=github_dark">
+  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nogunix&theme=default">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nogunix&theme=github_dark">
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nogunix&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nogunix&theme=github_dark">
+  <img alt="Commits by time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nogunix&theme=default">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nogunix&theme=github_dark">
+  <img alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nogunix&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nogunix&theme=github_dark">
+  <img alt="Most-committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nogunix&theme=default">
+</picture>
+
+</details>
+
 ## Disclaimer
 
 Everything here is personal. These projects are developed and maintained on my own time, are not affiliated with, endorsed by, or supported by my employer, and contain no confidential or customer information. Opinions are my own.
