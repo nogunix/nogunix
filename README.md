@@ -58,7 +58,3 @@ I try to apply this principle in my projects — keeping them simple, modular, a
 </picture>
 
 </details>
-
-## Disclaimer
-
-Everything here is personal. These projects are developed and maintained on my own time, are not affiliated with, endorsed by, or supported by my employer, and contain no confidential or customer information. Opinions are my own.
