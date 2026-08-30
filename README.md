@@ -16,6 +16,7 @@ What I build and maintain in my personal capacity:
 - [linux-japanese-font-fix](https://github.com/nogunix/linux-japanese-font-fix) — a Fontconfig setting that fixes common Japanese font rendering issues (the "Chinese font problem") on non-Japanese locales
 - [fedora-vm-builder](https://github.com/nogunix/fedora-vm-builder) — an Ansible + OpenTofu builder for disposable Fedora VMs with kdump and kernel debuginfo pre-configured
 - [sno-auto-builder](https://github.com/nogunix/sno-auto-builder) — automated OpenShift Single Node (SNO) deployment on Fedora / CentOS Stream / Ubuntu + libvirt using Ansible and OpenTofu
+- [oc-help-ja](https://github.com/nogunix/oc-help-ja) — unofficial Japanese translation of all `oc` (OpenShift CLI) `--help` outputs, auto-updated weekly via GitHub Actions
 - [janus](https://github.com/nogunix/janus) — a Claude Code plugin that runs an OpenShift / RHEL / CNV research and investigation pipeline
 
 ## About the name
